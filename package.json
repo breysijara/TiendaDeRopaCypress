@@ -1,0 +1,16 @@
+{
+  "name": "tiendaderopa",
+  "version": "1.0.0",
+  "description": "Automatizacion de sistema de tienda de Ropa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "automation",
+    "qa",
+    "Cypress"
+  ],
+  "author": "Breysijara",
+  "license": "ISC"
+}
