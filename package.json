@@ -4,7 +4,7 @@
   "description": "Automatizacion de sistema de tienda de Ropa",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx cypress run"
   },
   "keywords": [
     "automation",
@@ -12,5 +12,13 @@
     "Cypress"
   ],
   "author": "Breysijara",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cypress":"10.11.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/breysijara/TiendaDeRopaCypress"
+
+  }
 }
